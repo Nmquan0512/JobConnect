@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HjliJCXmIFnZzfKI4bmhghiQ2k0HoKN8n3eFRf/eeYE=",
+  "Source": "JobConnect.Api",
+  "BasePath": "_content/JobConnect.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

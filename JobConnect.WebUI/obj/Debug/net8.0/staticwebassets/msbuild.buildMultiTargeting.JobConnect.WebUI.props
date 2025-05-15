@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JobConnect.WebUI.props" />
+</Project>
